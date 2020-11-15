@@ -2,8 +2,9 @@ package proyecto_futuro;
 
 public class Proyecto_Futuro {
 
+    
     public static void main(String[] args) {
-
+            //Luisa Fernanda Polo Moreno
         int modulos;
         int horasEstudio;
         
